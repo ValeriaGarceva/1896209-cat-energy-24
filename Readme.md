@@ -1,8 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Валерия Гарцева](https://up.htmlacademy.ru/adaptive/24/user/1896209).
-* Наставник: [Евгений
-Бервяченок](https://htmlacademy.ru/profile/jackson).
+* Наставник: [Евгений Бервяченок](https://htmlacademy.ru/profile/jackson).
 
 ---
 
